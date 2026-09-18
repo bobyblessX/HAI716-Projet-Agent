@@ -1,9 +1,9 @@
 {
-  "format": "robot-reconfort/rendu",
+  "format": "rendu",
   "version": 1,
-  "equipe": ["NOM Prenom", "NOM Prenom"],
+  "equipe": ["BARRE-GUETROT Ilan", "CHAUVELON Pierrick"],
   "langage": "Python 3",
   "preparation": [],
-  "commande": ["python", "agent.py"],
-  "video": "demo.mp4"
+  "commande": ["python", "???.py"],
+  "video": "???.mp4"
 }
